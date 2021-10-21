@@ -6,3 +6,5 @@
 
 
 #### Now there is only one tasks, there will be more
+
+> Now you can only change theme by txt doc but that will change in time :)
