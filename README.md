@@ -2,9 +2,27 @@
 
 ## Project to repeat words that I learned during my lessons
 
-### You can try it on https://maximgilman.github.io/EnglishWordsMemorization?answers_count=5
-### Or reversed version https://maximgilman.github.io/EnglishWordsMemorization/?answers_count=5&&invert=true
 
-#### Now there is only one tasks, there will be more
 
-> Now you can only change theme by txt doc but that will change in time :)
+# English - english tasks (5 options per word)
+1.  [Video from youtube](https://www.youtube.com/watch?v=qjBdcyueom8)
+* [Meaning to word](https://maximgilman.github.io/EnglishWordsMemorization/?task=en_en/The_Most_Powerful_Mindset_for_Success__Video&&answers_count=5)
+* [Word to meaning](https://maximgilman.github.io/EnglishWordsMemorization/?task=en_en/The_Most_Powerful_Mindset_for_Success__Video&&answers_count=5&&invert=true)
+
+
+
+
+# Japanese - Russian tasks (5 options per word)
+1. [Aisatsu]
+* [Meaning to word](https://maximgilman.github.io/EnglishWordsMemorization/?task=jp_ru\aisatsu&&answers_count=5)
+* [Word to meaning](https://maximgilman.github.io/EnglishWordsMemorization/?task=jp_ru\aisatsu&&answers_count=5)
+
+
+
+
+### You also can customize each task by your own via GET parameters:
+> `?answers_count = N` - sets amount of possible options
+
+> `?task = ...` - sets task
+
+>`?invert = true` - inverts task (find word for the meaning or vice versa)
