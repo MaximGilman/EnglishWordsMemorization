@@ -10,7 +10,7 @@ var BASE_ANSWERS_COUNT = getParameterByName('answers_count') || 16;
 var TIME_TO_THE_NEXT_QUESTION_ON_FAIL = getParameterByName('time_to_the_next_question_on_fail') || 3000;
 var CURRENT_TASK_FILE_NAME = getParameterByName('task') || "demo/demo";
 
-$.get(CURRENT_TASK_FILE_NAME, function (data) {
+$.get('current-task.txt', function (data) {
     $.get('tasks/' + CURRENT_TASK_FILE_NAME + '.json', function (tasks) {
         if (getParameterByName('invert') == "true")
             tasks = inverObject(tasks);
