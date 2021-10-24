@@ -1,8 +1,9 @@
 {
     "おかあさん":"mother",
     "おとおさん":"father",
-    "":"little brother",
-    "":"little sister",
-    "":"elder brother",
-    "":"elder sister"
+    "おとおと":"little brother",
+    "いもおと":"little sister",
+    "おにいさん":"elder brother",
+    "おねえさん":"elder sister",
+    "ともだち":"friend"
 }
