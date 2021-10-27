@@ -34,6 +34,28 @@ Project to repeat words that I learned during my lessons
 4. Things
 * [Meaning to word](https://maximgilman.github.io/WordsMemorization_JS/?task=jp_en\things&&answers_count=5)
 * [Word to meaning](https://maximgilman.github.io/WordsMemorization_JS/?task=jp_en\things&&answers_count=5)
+
+5. Countries
+* [Meaning to word](https://maximgilman.github.io/WordsMemorization_JS/?task=jp_en\countries&&answers_count=5)
+* [Word to meaning](https://maximgilman.github.io/WordsMemorization_JS/?task=jp_en\countries&&answers_count=5)
+
+6. Education
+* [Meaning to word](https://maximgilman.github.io/WordsMemorization_JS/?task=jp_en\education&&answers_count=5)
+* [Word to meaning](https://maximgilman.github.io/WordsMemorization_JS/?task=jp_en\education&&answers_count=5)
+
+7. Majors
+* [Meaning to word](https://maximgilman.github.io/WordsMemorization_JS/?task=jp_en\majors&&answers_count=5)
+* [Word to meaning](https://maximgilman.github.io/WordsMemorization_JS/?task=jp_en\majors&&answers_count=5)
+
+8. Occupations
+* [Meaning to word](https://maximgilman.github.io/WordsMemorization_JS/?task=jp_en\occupations&&answers_count=5)
+* [Word to meaning](https://maximgilman.github.io/WordsMemorization_JS/?task=jp_en\occupations&&answers_count=5)
+
+7. Postfix (Particles)
+* [Meaning to word](https://maximgilman.github.io/WordsMemorization_JS/?task=jp_en\postfix&&answers_count=5)
+* [Word to meaning](https://maximgilman.github.io/WordsMemorization_JS/?task=jp_en\postfix&&answers_count=5)
+
+
 <br><br><br>
 
 ### You also can customize each task by your own via GET parameters:
