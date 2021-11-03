@@ -55,9 +55,12 @@ Project to repeat words that I learned during my lessons
 * [Meaning to word](https://maximgilman.github.io/WordsMemorization_JS/?task=jp_en\postfix&&answers_count=5)
 * [Word to meaning](https://maximgilman.github.io/WordsMemorization_JS/?task=jp_en\postfix&&answers_count=5&&invert=true)
 
-8. Verbs 
+8. Verbs. basic
 * [Meaning to word](https://maximgilman.github.io/WordsMemorization_JS/?task=jp_en\verbs&&answers_count=5)
 * [Word to meaning](https://maximgilman.github.io/WordsMemorization_JS/?task=jp_en\verbs&&answers_count=5&&invert=true)
+8. Verbs. 2
+* [Meaning to word](https://maximgilman.github.io/WordsMemorization_JS/?task=jp_en\verbs_2&&answers_count=5)
+* [Word to meaning](https://maximgilman.github.io/WordsMemorization_JS/?task=jp_en\verbs_2&&answers_count=5&&invert=true)
 
 <br><br><br>
 
